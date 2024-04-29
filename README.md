@@ -1,6 +1,6 @@
 # Curso-Desarrollo-Web-Full-Stack
 
-##Instalaciones Necesarias
+## Instalaciones Necesarias
 
 1. Visual Studio Code
 2. Postman
@@ -16,8 +16,7 @@
 8. Mongo Compass
 
 
-
-##Extensiones de VSCode
+## Extensiones de VSCode
 
 <ul>
    <li>
@@ -76,7 +75,7 @@
   </li>
 </ul>
 
-###Extensiones de Chrome
+## Extensiones de Chrome
 <ul>
   <li>
   <p dir="auto"><a href="https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh/related" rel="nofollow">Angular DevTools</a></p>
