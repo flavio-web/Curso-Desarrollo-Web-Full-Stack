@@ -4,16 +4,19 @@
 
 1. <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 2. <a href="https://www.postman.com/">Postman</a>
-3. <a href="https://nodejs.org/en/">Node Js</a>
+3. <a href="https://nodejs.org/en/">Node Js</a> ^20.11.0
 4. <a href="https://www.typescriptlang.org/">TypeScript</a>
    <pre>
      <code>npm install -g typescript</code>
    </pre>
-6. <a href="https://angular.io/">Angular CLI</a>
+6. <a href="https://angular.io/">Angular CLI</a> ^18.0.6
    <pre>
      <code>npm install -g @angular/cli</code>
    </pre>
 8. <a href="https://www.mongodb.com/">Mongo Compass</a>
+9. <a href="https://ionicframework.com/">Ionic</a> ^7.2.0
+10. <a href="https://developer.android.com/">Android Studio</a>
+
 
 
 ## Extensiones de VSCode
